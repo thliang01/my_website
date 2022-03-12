@@ -1,8 +1,8 @@
 baseURL = "http://example.org/"
 # [en, zh-cn, fr, ...] 设置默认的语言
-defaultContentLanguage = "zh-hant"
+defaultContentLanguage = "zh-tw"
 # 网站语言, 仅在这里 CN 大写
-languageCode = "zh-hant"
+languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
@@ -19,7 +19,7 @@ theme = "LoveIt"
     pre = ""
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "Posts"
+    name = "文章"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = ""
@@ -28,7 +28,7 @@ theme = "LoveIt"
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "标签"
     url = "/tags/"
     title = ""
     weight = 2
@@ -36,7 +36,7 @@ theme = "LoveIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "分类"
     url = "/categories/"
     title = ""
     weight = 3
@@ -387,7 +387,7 @@ theme = "LoveIt"
         width = "100%"
         numPosts = 10
         appId = ""
-        languageCode = "zh-hant"
+        languageCode = "zh_CN"
       #  Telegram Comments 评论系统设置
       [params.page.comment.telegram]
         enable = false
