@@ -68,7 +68,7 @@ theme = "LoveIt"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-    svgFavicon = "/images/me-avatar.svg"
+    svgFavicon = "/imsges/me-avatar.svg"
     # Android 浏览器主题色
     themeColor = "#ffffff"
     # Safari 图标颜色
@@ -163,7 +163,7 @@ theme = "LoveIt"
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/images/me-avatar.png"
+      avatarURL = "/images/avatar.png"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
@@ -257,9 +257,9 @@ theme = "LoveIt"
     #  是否在搜索结果中隐藏一篇文章
     hiddenFromSearch = false
     #  是否使用 twemoji
-    twemoji = true
+    twemoji = false
     # 是否使用 lightgallery
-    lightgallery = true
+    lightgallery = false
     #  是否使用 ruby 扩展语法
     ruby = true
     #  是否使用 fraction 扩展语法
@@ -269,7 +269,7 @@ theme = "LoveIt"
     # 是否在文章页面显示原始 Markdown 文档链接
     linkToMarkdown = true
     #  是否在 RSS 中显示全文内容
-    rssFullText = true
+    rssFullText = false
     #  目录配置
     [params.page.toc]
       # 是否使用目录

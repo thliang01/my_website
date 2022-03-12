@@ -269,7 +269,7 @@ theme = "LoveIt"
     # 是否在文章页面显示原始 Markdown 文档链接
     linkToMarkdown = true
     #  是否在 RSS 中显示全文内容
-    rssFullText = true
+    rssFullText = false
     #  目录配置
     [params.page.toc]
       # 是否使用目录
