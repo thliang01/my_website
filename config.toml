@@ -518,11 +518,11 @@ shortname = ""
 # Gitalk 评论系统设置
 [params.page.comment.gitalk]
 # 
-clientId = ""
-clientSecret = ""
-enable = false
-owner = ""
-repo = ""
+clientId = "101ba67408c0948a367f"
+clientSecret = "5611c039f9db668a167c6364fde945d03848aff0"
+enable = true
+owner = "thliang01"
+repo = "hugoblogtalks"
 # Valine 评论系统设置
 [params.page.comment.valine]
 appId = ""
