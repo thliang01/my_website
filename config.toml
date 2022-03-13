@@ -563,7 +563,7 @@ outlined = false
 siteID = ""
 #  Commento 评论系统设置
 [params.page.comment.commento]
-enable = false
+enable = true
 #  Utterances 评论系统设置
 [params.page.comment.utterances]
 enable = true
@@ -572,7 +572,7 @@ darkTheme = "github-dark"
 issueTerm = "pathname"
 label = ""
 lightTheme = "github-light"
-repo = "thliang01/commentsforkthliangblog"
+repo = "thliang01/hugoblogtalks"
 #  第三方库配置
 [params.page.library]
 [params.page.library.css]
