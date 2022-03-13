@@ -506,6 +506,7 @@ Weibo = false
 Whatsapp = false
 Xing = false
 enable = true
+
 #  评论系统设置
 [params.page.comment]
 enable = true
@@ -518,11 +519,11 @@ shortname = ""
 # Gitalk 评论系统设置
 [params.page.comment.gitalk]
 # 
-clientId = "101ba67408c0948a367f"
-clientSecret = "5611c039f9db668a167c6364fde945d03848aff0"
-enable = true
-owner = "thliang01"
-repo = "hugoblogtalks"
+clientId = ""
+clientSecret = ""
+enable = false
+owner = ""
+repo = ""
 # Valine 评论系统设置
 [params.page.comment.valine]
 appId = ""
