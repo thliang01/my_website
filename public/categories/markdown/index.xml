@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Markdown - Category - </title>
-        <link>http://example.org/categories/markdown/</link>
+        <link>https://thliang.dev/categories/markdown/</link>
         <description>Markdown - Category - </description>
         <generator>Hugo -- gohugo.io</generator><language>zh-hant</language><managingEditor>xxx@xxx (Thomas)</managingEditor>
-            <webMaster>xxx@xxx (Thomas)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>xxx@xxx (Thomas)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://thliang.dev/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown 基本语法</title>
-    <link>http://example.org/index.zh-cn/</link>
+    <link>https://thliang.dev/index.zh-cn/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/index.zh-cn/</guid>
+    <guid>https://thliang.dev/index.zh-cn/</guid>
     <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>
 <div class="details admonition note open">
         <div class="details-summary admonition-title">
@@ -1111,10 +1111,10 @@ line 3 of code
 </section>]]></description>
 </item><item>
     <title>Emoji 支持</title>
-    <link>http://example.org/index.zh-cn/</link>
+    <link>https://thliang.dev/index.zh-cn/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/index.zh-cn/</guid>
+    <guid>https://thliang.dev/index.zh-cn/</guid>
     <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>
 <p><a href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener noreffer"><code>emojify</code></a> 方法可以直接在模板中调用, 或者使用<a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes" target="_blank" rel="noopener noreffer">行内 Shortcodes</a>.</p>
 <p>要全局使用 emoji, 需要在你的<a href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener noreffer">网站配置</a>中设置 <code>enableEmoji</code> 为 <code>true</code>,

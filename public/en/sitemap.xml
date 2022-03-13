@@ -2,150 +2,158 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/en/theme-documentation-basics/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/theme-documentation-basics/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/theme-documentation-basics/"
+                        href="https://thliang.dev/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/theme-documentation-basics/"
+                    href="https://thliang.dev/en/theme-documentation-basics/"
                     /></url><url>
-            <loc>http://example.org/en/theme-documentation-content/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/theme-documentation-content/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/theme-documentation-content/"
+                        href="https://thliang.dev/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/theme-documentation-content/"
+                    href="https://thliang.dev/en/theme-documentation-content/"
                     /></url><url>
-            <loc>http://example.org/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/en/theme-documentation-extended-shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/theme-documentation-extended-shortcodes/"
+                        href="https://thliang.dev/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/theme-documentation-extended-shortcodes/"
+                    href="https://thliang.dev/en/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>http://example.org/en/basic-markdown-syntax/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/en/emoji-support/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/en/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/theme-documentation-extended-shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/"
+                        href="https://thliang.dev/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/"
+                    href="https://thliang.dev/en/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>http://example.org/en/categories/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/basic-markdown-syntax/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thliang.dev/en/emoji-support/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thliang.dev/en/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/categories/"
+                        href="https://thliang.dev/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/categories/"
+                    href="https://thliang.dev/en/"
                     /></url><url>
-            <loc>http://example.org/en/tags/configuration/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/categories/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/configuration/"
+                        href="https://thliang.dev/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/configuration/"
+                    href="https://thliang.dev/en/categories/"
                     /></url><url>
-            <loc>http://example.org/en/categories/documentation/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/configuration/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/categories/documentation/"
+                        href="https://thliang.dev/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/categories/documentation/"
+                    href="https://thliang.dev/en/tags/configuration/"
                     /></url><url>
-            <loc>http://example.org/en/tags/installation/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/categories/documentation/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/installation/"
+                        href="https://thliang.dev/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/installation/"
+                    href="https://thliang.dev/en/categories/documentation/"
                     /></url><url>
-            <loc>http://example.org/en/posts/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/installation/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/posts/"
+                        href="https://thliang.dev/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/posts/"
+                    href="https://thliang.dev/en/tags/installation/"
                     /></url><url>
-            <loc>http://example.org/en/tags/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/posts/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/"
+                        href="https://thliang.dev/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/"
+                    href="https://thliang.dev/en/posts/"
                     /></url><url>
-            <loc>http://example.org/en/tags/content/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/content/"
+                        href="https://thliang.dev/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/content/"
+                    href="https://thliang.dev/en/tags/"
                     /></url><url>
-            <loc>http://example.org/en/tags/markdown/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/content/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/markdown/"
+                        href="https://thliang.dev/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/markdown/"
+                    href="https://thliang.dev/en/tags/content/"
                     /></url><url>
-            <loc>http://example.org/en/tags/shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/markdown/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/shortcodes/"
+                        href="https://thliang.dev/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/shortcodes/"
+                    href="https://thliang.dev/en/tags/markdown/"
                     /></url><url>
-            <loc>http://example.org/en/tags/html/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/shortcodes/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/html/"
+                        href="https://thliang.dev/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/html/"
+                    href="https://thliang.dev/en/tags/shortcodes/"
                     /></url><url>
-            <loc>http://example.org/en/categories/markdown/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/tags/html/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/categories/markdown/"
+                        href="https://thliang.dev/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/categories/markdown/"
+                    href="https://thliang.dev/en/tags/html/"
                     /></url><url>
-            <loc>http://example.org/en/tags/emoji/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://thliang.dev/en/categories/markdown/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-hant"
-                        href="http://example.org/tags/emoji/"
+                        href="https://thliang.dev/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://example.org/en/tags/emoji/"
+                    href="https://thliang.dev/en/categories/markdown/"
+                    /></url><url>
+            <loc>https://thliang.dev/en/tags/emoji/</loc><lastmod>2022-03-13T11:40:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-hant"
+                        href="https://thliang.dev/tags/emoji/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://thliang.dev/en/tags/emoji/"
                     /></url></urlset>

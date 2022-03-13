@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>documentation - Category - </title>
-        <link>http://example.org/categories/documentation/</link>
+        <link>https://thliang.dev/categories/documentation/</link>
         <description>documentation - Category - </description>
         <generator>Hugo -- gohugo.io</generator><language>zh-hant</language><managingEditor>xxx@xxx (Thomas)</managingEditor>
-            <webMaster>xxx@xxx (Thomas)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>xxx@xxx (Thomas)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://thliang.dev/categories/documentation/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - 基本概念</title>
-    <link>http://example.org/theme-documentation-basics/</link>
+    <link>https://thliang.dev/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/theme-documentation-basics/</guid>
+    <guid>https://thliang.dev/theme-documentation-basics/</guid>
     <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>
 <h2 id="1-准备">1 准备</h2>
 <p>由于 Hugo 提供的便利性, <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">Hugo</a> 本身是这个主题唯一的依赖.</p>
@@ -1897,10 +1897,10 @@
     </div>]]></description>
 </item><item>
     <title>主题文档 - 内容</title>
-    <link>http://example.org/theme-documentation-content/</link>
+    <link>https://thliang.dev/theme-documentation-content/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/theme-documentation-content/</guid>
+    <guid>https://thliang.dev/theme-documentation-content/</guid>
     <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>
 <h2 id="contents-organization">1 内容组织</h2>
 <p>以下是一些方便你清晰管理和生成文章的目录结构建议:</p>
@@ -2407,10 +2407,10 @@
 <p><strong>[link](#escape-character)</strong> 而不是 <strong><a href="#escape-character" rel="">link</a></strong>.</p>]]></description>
 </item><item>
     <title>主题文档 - 内置 Shortcodes</title>
-    <link>http://example.org/index.zh-cn/</link>
+    <link>https://thliang.dev/theme-documentation-built-in-shortcodes/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/index.zh-cn/</guid>
+    <guid>https://thliang.dev/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>
 <p>Hugo 使用 Markdown 为其简单的内容格式. 但是, Markdown 在很多方面都无法很好地支持. 你可以使用纯 HTML 来扩展可能性.</p>
 <p>但这恰好是一个坏主意. 大家使用 Markdown, 正是因为它即使不经过渲染也可以轻松阅读. 应该尽可能避免使用 HTML 以保持内容简洁.</p>
@@ -2606,10 +2606,10 @@ Hugo 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容�
 </div>]]></description>
 </item><item>
     <title>主题文档 - 扩展 Shortcodes</title>
-    <link>http://example.org/theme-documentation-extended-shortcodes/</link>
+    <link>https://thliang.dev/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
     <author> 作者 </author>
-    <guid>http://example.org/theme-documentation-extended-shortcodes/</guid>
+    <guid>https://thliang.dev/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>
 <h2 id="1-style">1 style</h2>
 <a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
