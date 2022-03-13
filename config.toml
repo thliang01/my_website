@@ -566,13 +566,13 @@ siteID = ""
 enable = false
 #  Utterances 评论系统设置
 [params.page.comment.utterances]
-enable = false
+enable = true
 # owner/repo
 darkTheme = "github-dark"
 issueTerm = "pathname"
 label = ""
 lightTheme = "github-light"
-repo = ""
+repo = "thliang01/commentsforkthliangblog"
 #  第三方库配置
 [params.page.library]
 [params.page.library.css]
