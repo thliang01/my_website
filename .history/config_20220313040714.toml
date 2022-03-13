@@ -47,7 +47,7 @@ name = "Posts"
 post = ""
 pre = "<i class='fas fa-archive fa-fw'></i>"
 title = "all articles"
-url = "/posts/"
+url = "posts/"
 weight = 2
 
 [[languages.en.menu.main]]
@@ -56,7 +56,7 @@ name = " Tags"
 post = ""
 pre = "<i class='fas fa-tags fa-fw'></i>"
 title = ""
-url = "/tags/"
+url = "tags/"
 weight = 3
 
 [[languages.en.menu.main]]
@@ -65,7 +65,7 @@ name = "Categories"
 post = ""
 pre = "<i class='fas fa-th-list fa-fw'></i>"
 title = ""
-url = "/categories/"
+url = "categories/"
 weight = 4
 
 [[languages.en.menu.main]]
@@ -73,9 +73,9 @@ identifier = "about"
 name = "About"
 parent = ""
 post = ""
-pre = "<i class='fas fa-user fa-fw' ></i>"
+pre = "<i class='fas fa-user-secret fa-fw'></i>"
 title = ""
-url = "/about/"
+url = "about/"
 weight = 10
 
 [languages.en.params]
@@ -90,7 +90,7 @@ title = "LoveIt"
 # whether to omit favicon resource links
 noFavicon = false
 # modern SVG favicon to use in place of older style .png and .ico files
-svgFavicon = "images/me-avatar.png"
+svgFavicon = ""
 # Android browser theme color
 themeColor = "#ffffff"
 # Safari mask icon color
@@ -252,7 +252,7 @@ post = ""
 pre = "<i class='fas fa-tags fa-fw'></i>"
 title = ""
 url = "/tags/"
-weight = 3
+weight = 2
 [[languages.zh-hant.menu.main]]
 identifier = "categories"
 name = "Categories"
@@ -260,15 +260,15 @@ post = ""
 pre = "<i class='fas fa-th-list fa-fw'></i>"
 title = ""
 url = "/categories/"
-weight = 4
+weight = 3
 [[languages.zh-hant.menu.main]]
 identifier = "about"
 name = "About"
 post = ""
-pre = "<i class='fas fa-user fa-fw' ></i>"
+pre = ""
 title = ""
 url = "/about/"
-weight = 5
+weight = 4
 
 [params]
 #  LoveIt 主题版本
@@ -359,7 +359,7 @@ author = true
 # 网站创立年份
 since = 2019
 # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
-# icp = ""
+icp = ""
 # 许可协议信息 (支持 HTML 格式)
 license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
