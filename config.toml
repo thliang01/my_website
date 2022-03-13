@@ -145,7 +145,6 @@ enable = true
 # special amount of posts in each home posts page
 paginate = 6
 
-
 [languages.zh-hant]
 weight = 1
 # 网站语言
@@ -327,7 +326,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 gravatarEmail = ""
 # 主页显示头像的 URL
-avatarURL = "/images/me-avatar.png"
+avatarURL = "images/me-avatar.png"
 #  主页显示的网站标题 (支持 HTML 格式)
 title = ""
 # 主页显示的网站副标题
@@ -360,7 +359,7 @@ Devto = ""
 Douban = "" 
 Dribbble = "" 
 Email = "xxxx@xxxx.com" 
-Facebook = "xxxx" 
+Facebook = "" 
 Fivehundredpx = "" 
 Flickr = "" 
 Foursquare = "" 
@@ -371,7 +370,7 @@ Gitlab = ""
 Goodreads = "" 
 Googlescholar = "" 
 Hackernews = "" 
-Instagram = "xxxx" 
+Instagram = "" 
 Jsfiddle = "" 
 Keybase = "" 
 Kickstarter = "" 
@@ -397,11 +396,11 @@ Spotify = ""
 Stackoverflow = "" 
 Steam = "" 
 Strava = "" 
-Telegram = "xxxx" 
+Telegram = "" 
 Thingiverse = "" 
 Tumblr = "" 
 Twitch = "" 
-Twitter = "xxxx" 
+Twitter = "" 
 VK = "" 
 Vine = "" 
 Weibo = "" 
@@ -480,18 +479,18 @@ fullscreen = true
 #  文章页面的分享信息设置
 [params.page.share]
 Baidu = false
-Blogger = true
+Blogger = false
 Buffer = false
 Digg = false
-Evernote = true
-Facebook = true
+Evernote = false
+Facebook = false
 Flipboard = false
 HackerNews = false
 Instapaper = false
-Line = true
+Line = false
 Linkedin = false
 Mix = false
-Myspace = true
+Myspace = false
 Odnoklassniki = false
 Pinterest = false
 Pocket = false
@@ -501,10 +500,10 @@ Skype = false
 Stumbleupon = false
 Trello = false
 Tumblr = false
-Twitter = true
+Twitter = false
 VK = false
-Weibo = true
-Whatsapp = true
+Weibo = false
+Whatsapp = false
 Xing = false
 enable = true
 #  评论系统设置
