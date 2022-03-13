@@ -273,7 +273,7 @@ mobileMode = "auto"
 # LOGO 的 URL
 logo = "images/favicon.ico"
 # 标题名称
-name = "Work hard, Play hard"
+name = ""
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 pre = ""
 # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标

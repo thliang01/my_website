@@ -144,7 +144,71 @@ disclaimer = ""
 enable = true
 # special amount of posts in each home posts page
 paginate = 6
-
+# Social config in home page
+[languages.en.params.social]
+Angellist = ""
+Bandcamp = ""
+Behance = ""
+Bilibili = ""
+Bitbucket = ""
+Codepen = ""
+Deviantart = ""
+Devto = ""
+Douban = ""
+Dribbble = ""
+Email = "xxxx@xxxx.com"
+Facebook = ""
+Fivehundredpx = ""
+Flickr = ""
+Foursquare = ""
+FreeCodeCamp = ""
+GitHub = "xxxx"
+Gitea = ""
+Gitlab = ""
+Goodreads = ""
+Googlescholar = ""
+Hackernews = ""
+Instagram = ""
+Jsfiddle = ""
+Keybase = ""
+Kickstarter = ""
+Lastfm = ""
+Linkedin = ""
+Matrix = ""
+Medium = ""
+Mix = ""
+Odnoklassniki = ""
+Patreon = ""
+Paypal = ""
+Pinterest = ""
+Quora = ""
+RSS = true
+Reddit = ""
+Researchgate = ""
+Skype = ""
+Slidershare = ""
+Snapchat = ""
+Soundcloud = ""
+Spotify = ""
+Stackoverflow = ""
+Steam = ""
+Strava = ""
+Telegram = "xxxx"
+Thingiverse = ""
+Tumblr = ""
+Twitch = ""
+Twitter = "xxxx"
+VK = ""
+Vine = ""
+Weibo = ""
+Whatsapp = ""
+Wordpress = ""
+XMPP = ""
+Xing = ""
+Youtubechannel = ""
+Youtubecustom = ""
+Youtubelegacy = ""
+Zhihu = ""
 
 [languages.zh-hant]
 weight = 1
@@ -223,14 +287,14 @@ fingerprint = ""
 #  日期格式
 dateFormat = "2006-01-02"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["images/me-avatar.png"]
+images = ["/logo.png"]
 
 #  应用图标配置
 [params.app]
 # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
 title = "LoveIt"
 # 是否隐藏网站图标资源链接
-noFavicon = true
+noFavicon = false
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
 svgFavicon = "/images/me-avatar.svg"
 # Android 浏览器主题色
@@ -271,9 +335,9 @@ mobileMode = "auto"
 #  页面头部导航栏标题配置
 [params.header.title]
 # LOGO 的 URL
-logo = "images/favicon.ico"
+logo = ""
 # 标题名称
-name = "Work hard, Play hard"
+name = ""
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 pre = ""
 # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -365,7 +429,7 @@ Fivehundredpx = ""
 Flickr = "" 
 Foursquare = "" 
 FreeCodeCamp = "" 
-GitHub = "thliang01" 
+GitHub = "xxxx" 
 Gitea = "" 
 Gitlab = "" 
 Goodreads = "" 
