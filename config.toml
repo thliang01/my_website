@@ -566,7 +566,7 @@ siteID = ""
 enable = false
 #  Utterances 评论系统设置
 [params.page.comment.utterances]
-enable = true
+enable = false
 # owner/repo
 darkTheme = "github-dark"
 issueTerm = "pathname"
