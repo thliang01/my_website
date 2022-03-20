@@ -470,9 +470,6 @@ enable = true
 #  评论系统设置
 [params.page.comment]
 enable = true
-#  Commento 评论系统设置
-[params.page.comment.commento]
-enable = false
 #  Utterances 评论系统设置
 [params.page.comment.utterances]
 enable = true
