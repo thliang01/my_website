@@ -90,7 +90,7 @@ gravatarEmail = ""
 # URL of avatar shown in home page
 avatarURL = "/images/avataars.png"
 # title shown in home page (HTML format is supported)
-title = ""
+title = "Where of what's past is prologue."
 # subtitle shown in home page
 subtitle = "Yet, another unfinished website."
 # whether to use typeit animation for subtitle
@@ -187,7 +187,7 @@ images = ["images/logo.png"]
 #  应用图标配置
 [params.app]
 # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-title = "Thomas's Blog"
+title = "凡是過往 皆為序章"
 # 是否隐藏网站图标资源链接
 noFavicon = true
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -232,7 +232,7 @@ mobileMode = "auto"
 # LOGO 的 URL
 logo = "/images/favicon.ico"
 # 标题名称
-name = "Work hard, Play hard"
+name = ""
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 pre = ""
 # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -288,7 +288,7 @@ gravatarEmail = ""
 # 主页显示头像的 URL
 avatarURL = "/images/avataars.png"
 #  主页显示的网站标题 (支持 HTML 格式)
-title = ""
+title = "凡是過往，皆為序曲"
 # 主页显示的网站副标题
 subtitle = "這是我的未完成 Hugo 網站"
 # 是否为副标题显示打字机动画
