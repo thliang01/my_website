@@ -470,13 +470,6 @@ enable = true
 #  评论系统设置
 [params.page.comment]
 enable = true
-# Facebook 评论系统设置
-[params.page.comment.facebook]
-appId = ""
-enable = false
-languageCode = "zh-hant"
-numPosts = 10
-width = "100%"
 #  Telegram Comments 评论系统设置
 [params.page.comment.telegram]
 color = ""
