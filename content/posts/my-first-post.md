@@ -6,3 +6,7 @@ draft: false
 ## First
 
 First blog.
+
+```python
+print("Hello, World")
+```
