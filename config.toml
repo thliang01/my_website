@@ -5,6 +5,10 @@ defaultContentLanguage = "zh-hant"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 
+# website title
+# 网站标题
+title = "ThomasData"
+
 # whether to use robots.txt
 # 是否使用 robots.txt
 enableRobotsTXT = true
@@ -26,8 +30,6 @@ languageName = "English"
 hasCJKLanguage = false
 # default amount of posts in each pages
 paginate = 12
-# [UA-XXXXXXXX-X] google analytics code
-googleAnalytics = ""
 # copyright description used only for seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 # Menu config
@@ -115,8 +117,6 @@ languageName = "中文"
 hasCJKLanguage = true
 # 默认每页列表显示的文章数目
 paginate = 12
-# [UA-XXXXXXXX-X] 谷歌分析代号
-googleAnalytics = ""
 # 版权描述，仅仅用于 SEO
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 # 菜单配置
@@ -169,7 +169,7 @@ weight = 5
 #  LoveIt 主题版本
 version = "0.2.X"
 # 网站描述
-description = "這是我的未完成 Hugo 網站|"
+description = ""
 # 网站关键词
 keywords = ["Theme", "Hugo"]
 # 网站默认主题样式 ("light", "dark", "auto")
@@ -187,7 +187,7 @@ images = ["images/logo.png"]
 #  应用图标配置
 [params.app]
 # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-title = "凡是過往 皆為序章"
+title = ""
 # 是否隐藏网站图标资源链接
 noFavicon = true
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
