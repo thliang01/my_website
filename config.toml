@@ -1,6 +1,8 @@
 baseURL = "https://thliang.dev"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-hant"
+# 语言名称 ["English", "简体中文", "Français", "Polski", ...]
+languageName = "繁體中文"
 # theme
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
