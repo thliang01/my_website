@@ -5,10 +5,10 @@
 
 # === baseof ==
 [backToTop]
-other = " 回到頂部 "
+other = "回到頂端"
 
 [viewComments]
-other = " 查看評論 "
+other = "查看留言"
 # === baseof ==
 
 # === Post ===
@@ -24,19 +24,27 @@ other = " 上一篇 "
 
 # === Taxonomy ===
 [allSome]
-other = "All {{.Some}}"
+other = "所有{{ .Some }}"
 
 [tag]
 other = "Tag"
+# [tag]
+# other = "標籤"
 
 [tags]
 other = "Tags"
+# [tags]
+# other = "標籤"
 
 [category]
 other = "Category"
+# [category]
+# other = "分類"
 
 [categories]
 other = "Category"
+# [categories]
+# other = "分類"
 # === Taxonomy ===
 
 # === Pagination ===
@@ -49,13 +57,14 @@ other = " 更多 "
 other = " 選擇語言 "
 
 [switchTheme]
-other = " 切換主題 "
+other = " 變更主題 "
 # === partials/header.html ===
 
 # === partials/footer.html ===
 [poweredBySome]
 other = "Powered by {{ .Hugo }} | Theme - {{ .Theme }}"
-# === partials/footer.html ===
+# [poweredBySome]
+# other = "由 {{ .Hugo }} 強力驅動 | 主題 - {{ .Theme }}"# === partials/footer.html ===
 
 # === partials/comment.html ===
 [valineLang]
@@ -73,16 +82,16 @@ other = "zh-hant"
 other = " 搜尋 "
 
 [searchPlaceholder]
-other = " 搜尋文章標題或內容..."
+other = "搜尋文章標題或內容..."
 
 [clear]
-other = " 清空 "
+other = " 清除 "
 
 [cancel]
 other = " 取消 "
 
 [noResultsFound]
-other = " 沒有找到結果 "
+other = "找不到查詢结果"
 
 [lunrLanguageCode]
 other = "zh-hant"
@@ -94,10 +103,10 @@ other = "lib/lunr/lunr.zh.js"
 other = "lib/lunr/lunr.segmentit.js"
 
 [copyToClipboard]
-other = " 複製到剪貼板 "
+other = "複製到剪貼簿"
 
 [cookieconsentMessage]
-other = " 本網站使用 Cookies 來改善您的瀏覽體驗."
+other = "本網站使用 Cookies 來增進您的瀏覽體驗."
 
 [cookieconsentDismiss]
 other = " 同意 "
@@ -131,7 +140,7 @@ other = " 作者 "
 other = " 更新於 {{.Date}}"
 
 [readMarkdown]
-other = " 閱讀原始文檔 "
+other = " 檢視原始檔案 "
 
 [back]
 other = " 返回 "
