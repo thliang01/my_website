@@ -9,7 +9,7 @@ authorLink: ""
 description: "print Hello World"
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.webp"
 
 tags: [Blog Setting]
 categories: [Hugo]
