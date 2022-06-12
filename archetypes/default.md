@@ -24,5 +24,3 @@ math:
 lightgallery: false
 license: ""
 ---
-
-<!--more-->
