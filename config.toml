@@ -4,7 +4,7 @@ baseURL = "https://thliang.dev"
 theme = "LoveIt"
 
 # website title
-title = "MemoryLeak"
+title = "Thomas's Thinking"
 
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-hant"
